@@ -1,0 +1,9 @@
+﻿  tsp5.cpp
+C:\Users\LENOVO\source\repos\tsp5\tsp5\tsp5.cpp(25,35): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\LENOVO\source\repos\tsp5\tsp5\tsp5.cpp(27,31): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\LENOVO\source\repos\tsp5\tsp5\tsp5.cpp(33,60): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+  tsp5.vcxproj -> C:\Users\LENOVO\source\repos\tsp5\x64\Debug\tsp5.exe
